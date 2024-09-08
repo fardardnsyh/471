@@ -1,0 +1,116 @@
+[
+    {
+        "icon": "devicon:cplusplus",
+        "name": "C++",
+        "percent": 87,
+        "type": "Other"
+    },
+    {
+        "icon": "logos:javascript",
+        "name": "Javascript",
+        "percent": 95,
+        "type": "Front-end"
+    },
+    {
+        "icon": "devicon:typescript",
+        "name": "Typescript",
+        "percent": 90,
+        "type": "Front-end"
+    },
+    {
+        "icon": "devicon:postgresql-wordmark",
+        "name": "PostgreSQL",
+        "percent": 85,
+        "type": "Back-end"
+    },
+    {
+        "icon": "devicon:mongodb-wordmark",
+        "name": "MongoDB",
+        "percent": 85,
+        "type": "Back-end"
+    },
+    {
+        "icon": "skill-icons:react-dark",
+        "name": "React JS",
+        "percent": 95,
+        "type": "Front-end"
+    },
+    {
+        "icon": "skill-icons:nodejs-light",
+        "name": "Node JS",
+        "percent": 90,
+        "type": "Back-end"
+    },
+    {
+        "icon": "skill-icons:expressjs-dark",
+        "name": "Express JS",
+        "percent": 95,
+        "type": "Back-end"
+    },
+    {
+        "icon": "devicon:tailwindcss",
+        "name": "Tailwind CSS",
+        "percent": 87,
+        "type": "Other"
+    },
+    {
+        "icon": "logos:webrtc",
+        "name": "WebRTC",
+        "percent": 90,
+        "type": "Other"
+    },
+    {
+        "icon": "devicon:socketio",
+        "name": "Socket.io",
+        "percent": 95,
+        "type": "Other"
+    },
+    {
+        "icon": "logos:redis",
+        "name": "Redis",
+        "percent": 85,
+        "type": "Back-end"
+    },
+    {
+        "icon": "logos:html-5",
+        "name": "HTML",
+        "percent": 95,
+        "type": "Front-end"
+    },
+    {
+        "icon": "devicon:css3-wordmark",
+        "name": "CSS",
+        "percent": 95,
+        "type": "Front-end"
+    },
+    {
+        "icon": "vscode-icons:file-type-scss",
+        "name": "SCSS",
+        "percent": 85,
+        "type": "Front-end"
+    },
+    {
+        "icon": "logos:figma",
+        "name": "Figma",
+        "percent": 90,
+        "type": "Front-end"
+    },
+    {
+        "icon": "devicon:git",
+        "name": "Git",
+        "percent": 90,
+        "type": "Other"
+    },
+    {
+        "icon": "devicon:github",
+        "name": "GitHub",
+        "percent": 95,
+        "type": "Other"
+    },
+    {
+        "icon": "logos:docker-icon",
+        "name": "Docker",
+        "percent": 85,
+        "type": "Other"
+    }
+]
